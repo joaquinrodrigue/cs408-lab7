@@ -1,8 +1,6 @@
-# web-dev-starter
+# lab-7-css-part-2
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This lab had more CSS work. I'm not sure what to put here.
 
 ## Getting Started
 
@@ -22,6 +20,8 @@ you do not need to setup a local server to run the project.
 
 ## Testing
 
+There is no new JavaScript included with this project.
+The template tests should pass regardless.
 To run the tests for the project, run the following command:
 
 ```bash
